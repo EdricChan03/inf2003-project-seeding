@@ -1,0 +1,5 @@
+# Exclude common Python folders
+**/__pycache__
+
+# Exclude scraping output
+scrape-out/
