@@ -1,0 +1,79 @@
+[
+  {
+    "max_size": 36,
+    "floor_level": 4,
+    "floor_type": "basement",
+    "room_number": "D633",
+    "building_name": "Literature Wing"
+  },
+  {
+    "max_size": 24,
+    "floor_level": 1,
+    "floor_type": "above_ground",
+    "room_number": "C840",
+    "building_name": "Science Hall"
+  },
+  {
+    "max_size": 36,
+    "floor_level": 3,
+    "floor_type": "above_ground",
+    "room_number": "B962",
+    "building_name": "Art Studio"
+  },
+  {
+    "max_size": 36,
+    "floor_level": 1,
+    "floor_type": "above_ground",
+    "room_number": "C793",
+    "building_name": "Literature Wing"
+  },
+  {
+    "max_size": 32,
+    "floor_level": 1,
+    "floor_type": "basement",
+    "room_number": "D367",
+    "building_name": "Mathematics Building"
+  },
+  {
+    "max_size": 21,
+    "floor_level": 3,
+    "floor_type": "basement",
+    "room_number": "D872",
+    "building_name": "Literature Wing"
+  },
+  {
+    "max_size": 28,
+    "floor_level": 4,
+    "floor_type": "basement",
+    "room_number": "B233",
+    "building_name": "Mathematics Building"
+  },
+  {
+    "max_size": 24,
+    "floor_level": 3,
+    "floor_type": "basement",
+    "room_number": "D426",
+    "building_name": "Literature Wing"
+  },
+  {
+    "max_size": 26,
+    "floor_level": 4,
+    "floor_type": "above_ground",
+    "room_number": "B785",
+    "building_name": "Engineering Complex"
+  },
+  {
+    "max_size": 20,
+    "floor_level": 2,
+    "floor_type": "above_ground",
+    "room_number": "B314",
+    "building_name": "Mathematics Building"
+  },
+  {
+    "max_size": 300,
+    "floor_level": 3,
+    "floor_type": "above_ground",
+    "room_number": "B790",
+    "building_name": "Engineering Complex"
+  }
+]
