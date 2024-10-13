@@ -25,6 +25,9 @@ python courses/clean_data.py
 
 It's pretty bare-bones, so it currently doesn't offer any command-line flags.
 
+The [`2023FulltimeDiplomaCourses_fixed.csv` file](./courses/2023FulltimeDiplomaCourses_fixed.csv)
+is used as the input source for the `clean_data.py` script.
+
 The parsed result will be outputted as `courses/parse_result.json`, and is currently
 [versioned in the repository as well](./courses/parse_result.json).
 
